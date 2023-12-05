@@ -40,5 +40,6 @@ I turn ideas into code, problems into solutions, and coffee into software. Join 
 
 ### Contact
 
-[Linkedin]: https://www.linkedin.com/in/jorge-cedillo-gut%C3%ADerrez-617232286/
-[email]: jcedillo.gtz@gmail.com
+[Linkedin](https://www.linkedin.com/in/jorge-cedillo-gut%C3%ADerrez-617232286/)
+
+[Email](mailto:jcedillo.gtz@gmail.com)
