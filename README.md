@@ -39,5 +39,6 @@ I turn ideas into code, problems into solutions, and coffee into software. Join 
 ![wherethacoffee's GitHub stats](https://github-readme-stats.vercel.app/api?username=wherethacoffee&show_icons=true&theme=dracula)
 
 ### Contact
+
 [Linkedin]: https://www.linkedin.com/in/jorge-cedillo-gut%C3%ADerrez-617232286/
 [email]: jcedillo.gtz@gmail.com
